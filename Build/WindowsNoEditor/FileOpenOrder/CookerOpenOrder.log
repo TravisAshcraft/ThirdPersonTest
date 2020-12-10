@@ -1,0 +1,516 @@
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 0
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Basic_Wall.uasset" 2
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Pillar_50x500.uasset" 3
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Wall_400x300.uasset" 4
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Wall_400x400.uasset" 5
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Wall_500x500.uasset" 6
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 7
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 8
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Collapse01.uasset" 9
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Collapse02.uasset" 10
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Explosion01.uasset" 11
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Explosion02.uasset" 12
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Fire01.uasset" 13
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Fire_Sparks01.uasset" 14
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Light01.uasset" 15
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Light01_Cue.uasset" 16
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Light02.uasset" 17
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Light02_Cue.uasset" 18
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Smoke01.uasset" 19
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Starter_Birds01.uasset" 20
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Starter_Music01.uasset" 21
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Starter_Wind05.uasset" 22
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Starter_Wind06.uasset" 23
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Steam01.uasset" 24
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Explosion_Cue.uasset" 25
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Burst_M.uasset" 26
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_Burst.uasset" 27
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 28
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 29
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 31
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 32
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 33
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 34
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 35
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/P_Explosion.uasset" 36
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 37
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 38
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 39
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Bush_D.uasset" 40
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Bush_N.uasset" 41
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_Bush.uasset" 42
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Bush.uasset" 43
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Chair_M.uasset" 44
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Chair_N.uasset" 45
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_Chair.uasset" 46
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Couch.uasset" 47
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Glass.uasset" 48
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Door_M.uasset" 49
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Door_N.uasset" 50
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_Door.uasset" 51
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Door.uasset" 52
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 53
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 54
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 55
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 56
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 57
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 58
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_RockMesh_M.uasset" 59
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_RockMesh_N.uasset" 60
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_Rock.uasset" 61
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Rock.uasset" 62
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Shelf_M.uasset" 63
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Shelf_N.uasset" 64
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_Shelf.uasset" 65
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Shelf.uasset" 66
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Basic_Floor.uasset" 67
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Stairs.uasset" 68
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Cone.uasset" 69
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 70
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 71
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Pipe.uasset" 72
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 73
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 74
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Plane.uasset" 75
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Torus.uasset" 76
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Trim.uasset" 77
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 78
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 79
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 80
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Tube.uasset" 81
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 82
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 83
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 84
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 85
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 86
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 87
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 88
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 89
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPersonRun.uasset" 90
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 91
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 92
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 93
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 94
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 95
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 96
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 97
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 98
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 99
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 100
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 101
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 102
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 103
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 104
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 105
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 106
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 107
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 108
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 109
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 110
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 111
+"D:/Unreal Projects/ThirdPersonTest/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 112
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 113
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 114
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 115
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 116
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 117
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 118
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 119
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 120
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 121
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 122
+"../../../Engine/Content/BasicShapes/Cone.uasset" 123
+"../../../Engine/Content/BasicShapes/Cube.uasset" 124
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 125
+"../../../Engine/Content/BasicShapes/Plane.uasset" 126
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 127
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 128
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 129
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 130
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 131
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 132
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 133
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 134
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 135
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 136
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 137
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 138
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 139
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 140
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 141
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 142
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 143
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 144
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 145
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 146
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 147
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 148
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 149
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 150
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 151
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 152
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 153
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 154
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 155
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 156
+"../../../Engine/Content/EditorResources/S_Note.uasset" 157
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 158
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 159
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 160
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 161
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 162
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 163
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 164
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 165
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 166
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 167
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 168
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 169
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 170
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 171
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 172
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 173
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 174
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 175
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 176
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 177
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 178
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 179
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 180
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 181
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 182
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 183
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 184
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 185
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 186
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 187
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 188
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 189
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 190
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 191
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 192
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 194
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 195
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 196
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 197
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 198
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 199
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 200
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 201
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 202
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 203
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 204
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 205
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 206
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 207
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 209
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 210
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 211
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 212
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 213
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 214
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 215
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 216
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 217
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 218
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 219
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 220
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 221
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 222
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 223
+"../../../Engine/Content/EngineResources/Black.uasset" 224
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 225
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 226
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 227
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 228
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 229
+"../../../Engine/Content/EngineSounds/Master.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 232
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 233
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 234
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 235
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 236
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 237
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 238
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 239
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 240
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 241
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 242
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 243
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 244
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 245
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 246
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 247
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 248
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 249
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 250
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 254
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 255
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 256
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 257
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 258
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 259
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 260
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 261
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 262
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 263
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 264
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 265
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 266
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 267
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 268
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 269
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 270
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 271
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 272
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 273
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 274
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 275
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 276
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 279
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 280
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 281
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 282
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 283
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 284
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 285
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 286
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 287
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 288
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 289
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 290
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 291
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 292
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 293
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 294
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 295
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 296
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 297
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_AssetPlatform.uasset" 298
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 299
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 300
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 301
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 302
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 303
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 304
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 305
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 306
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Maps/Advanced_Lighting.umap" 307
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 308
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 309
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 310
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 311
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 312
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 313
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 314
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 315
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 316
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 317
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_MacroVariation.uasset" 318
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 319
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 320
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 321
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 322
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 323
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Metal_Copper.uasset" 324
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Statue_M.uasset" 325
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Statue_N.uasset" 326
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 327
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Floor_400x400.uasset" 328
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 329
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Chair.uasset" 330
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_Statue.uasset" 331
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Statue.uasset" 332
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_TableRound_M.uasset" 333
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_TableRound_N.uasset" 334
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_TableRound.uasset" 335
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_TableRound.uasset" 336
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Maps/Minimal_Default.umap" 337
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Fire01_Cue.uasset" 338
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 339
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 340
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 341
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Water_N.uasset" 342
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 343
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 344
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/P_Fire.uasset" 345
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 346
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Smoke01_Cue.uasset" 347
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/P_Smoke.uasset" 348
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 349
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 350
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Spark_Core.uasset" 351
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_Spark.uasset" 352
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/P_Sparks.uasset" 353
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 354
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Steam01_Cue.uasset" 355
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/P_Steam_Lit.uasset" 356
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 357
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Lamp_M.uasset" 358
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Lamp_N.uasset" 359
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_Lamp.uasset" 360
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 361
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 362
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 363
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 364
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 366
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 367
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 368
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 369
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 370
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 371
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 372
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 373
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 374
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 375
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 376
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 377
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 378
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 379
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 380
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 381
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 382
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 383
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 384
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 385
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 386
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 387
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 388
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 389
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 390
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 391
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 392
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 393
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 394
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 395
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 396
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Gradinet_01.uasset" 397
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 398
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 399
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 400
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 401
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 402
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 403
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 404
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 405
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 406
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 407
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 408
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 409
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 410
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 411
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 412
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 413
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 414
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 415
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 416
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 417
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 418
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 419
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Ground_Grass.uasset" 420
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 421
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 422
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 423
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 424
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 425
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Ground_Moss.uasset" 426
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 427
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 428
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Metal_Gold.uasset" 429
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 430
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Metal_Rust.uasset" 431
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 432
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 433
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Metal_Steel.uasset" 434
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 435
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 436
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 437
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 438
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 439
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 440
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 441
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 442
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Rock_Slate.uasset" 443
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 444
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 445
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 446
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 447
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 448
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 449
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 450
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 451
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 452
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 453
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 454
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Tech_Panel.uasset" 455
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Water_Lake.uasset" 456
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Water_M.uasset" 457
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Water_Ocean.uasset" 458
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 459
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 460
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 461
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 462
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 463
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 464
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 465
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 466
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Wood_Oak.uasset" 467
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 468
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 469
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Wood_Pine.uasset" 470
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 471
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 472
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 473
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Wall_400x200.uasset" 474
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 475
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 476
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Collapse_Cue.uasset" 477
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 478
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 479
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 480
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 481
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/MaterialSphere.uasset" 482
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Frame_M.uasset" 483
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Textures/T_Frame_N.uasset" 484
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/Materials/M_Frame.uasset" 485
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_CornerFrame.uasset" 486
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_DoorFrame.uasset" 487
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_GlassWindow.uasset" 488
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_PillarFrame.uasset" 489
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_PillarFrame300.uasset" 490
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Props/SM_WindowFrame.uasset" 491
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Cube.uasset" 492
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 493
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Shapes/Shape_Sphere.uasset" 494
+"D:/Unreal Projects/ThirdPersonTest/Content/StarterContent/Maps/StarterMap.umap" 495
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/Maps/Level_1_BuiltData.uasset" 496
+"D:/Unreal Projects/ThirdPersonTest/Content/Geometry/Meshes/CubeMaterial.uasset" 497
+"D:/Unreal Projects/ThirdPersonTest/Content/Geometry/Meshes/1M_Cube.uasset" 498
+"D:/Unreal Projects/ThirdPersonTest/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 499
+"D:/Unreal Projects/ThirdPersonTest/Content/Geometry/Meshes/TemplateFloor.uasset" 500
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPerson/Meshes/RampMaterial.uasset" 501
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 502
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 503
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 504
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 505
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 506
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/Maps/Level_1.umap" 507
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/StartMenuPlayerController.uasset" 508
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/MainMenuStartGameModer.uasset" 509
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/MainMenuScreen.uasset" 510
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/Maps/MainMenu.umap" 511
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 512
+"D:/Unreal Projects/ThirdPersonTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 513
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 514
+"../../../Engine/Content/Maps/Entry.umap" 515
